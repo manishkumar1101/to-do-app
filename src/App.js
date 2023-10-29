@@ -5,7 +5,7 @@ function App() {
     <div >     
       <div className='App'>
       <input type='text'></input>      
-      <button>Add</button>
+      <button>Add TODO </button>
       </div>
     </div>
   );
